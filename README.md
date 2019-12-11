@@ -4,5 +4,4 @@ Demo Test Site
 
 [2019.12] IDM RESTFul Service TEST PAGES
 
-# createAt: 2019.12.11
-# xradiance@gmail.com
+createAt: 2019.12.11
